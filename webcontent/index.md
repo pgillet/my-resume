@@ -1,254 +1,89 @@
-Pascal GILLET - Resume            [Back to top](# "Go to top")
+[Work experience](#work)
+[Education](#education)
+[Certifications](#certifications)
+[Publications](#publications)
+[Skills](#skills)
+[Personal](#personal)
 
-[Pascal GILLET](#)
+# Hello, world!
 
-*   [Work experience](#work)
-*   [Education](#education)
-*   [Certifications](#certifications)
-*   [Publications](#publications)
-*   [Skills](#skills)
-*   [Personal](#personal)
-
-Hello, world!
--------------
-
-##### I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
+I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
 In my everyday work, I am involved in cloud computing and data management in general, including the use of open data, issues related to the capture, storage, retrieval, sharing, analysis and visualization of big data, and finally make sense of data with the semantic Web. I define myself as a technical person and I love getting my hands in the code.
 
 *   [pascalgillet@ymail.com](mailto:pascalgillet@ymail.com)
-    
-*   [Print](javascript:window.print())
     
 
 Pascal GILLET Software & Data Architect
 =======================================
 
-Contact
+# Work experience
 
-22 Rue des Bouches du Rhône  
-31500 Toulouse, France
+Occupation or position held: **Big Data & Cloud Architect**  
+From May 2018 to August 2023  
+Toulouse, France  
+Big Data Cloud  
+Name of employer: [Stack Labs](https://www.stack-labs.com)  
+Type of business or sector: IT mastery  
 
-pascalgillet@ymail.com
 
-Website
+Occupation or position held: **Solutions Architect**  
+From June 2014 to May 2018  
+Toulouse, France  
+`Big Data` `Machine Learning` `Semantic Web`  
+Name of employer: [Capgemini](http://www.capgemini.com)  
+Type of business or sector: Consulting & IT services  
+Customer: [Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)  
+Main activities & responsibilities:
+- Functional architecture
+- R&D in the fields of Big Data, Linked Data, Semantic Web, NoSQL
+- Definition of a data management platform with Semantic Web technologies
+- **MIPF on behalf of Airbus Defense & Space: Management and development of a large-scale computer cluster for processing satellite images**  
+`OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
 
-**https://pascalgillet.net**
-
-##### Big Data Cloud Computing Machine Learning Deep Learning
-
-1.  [2002  
-    M.Sc.  
-    Software Engineering](#education)
-2.  [2002  
-    CNES Internship](#cnes-internship)
-3.  [2003 - 2007  
-    Sogeti  
-    _Software Engineer_](#sogeti)
-4.  [2007 - 2009  
-    GFI  
-    _Software Engineer_](#gfi-2007)
-5.  [2009  
-    Australia](#australia)
-6.  [2009 - 2011  
-    GFI Morocco  
-    _Domain Leader Back Office_](#gfi-morocco)
-7.  [2011 - 2012  
-    GFI  
-    _Technical Manager_](#gfi-2007)
-8.  [2013  
-    MSc(Res)  
-    Computing & Telecoms](#education)
-9.  [2013 - 2014  
-    Glue  
-    _Founder_](#glue)
-10.  [2014 - 2018  
-    Capgemini  
-    _Solutions Architect_](#capgemini)
-11.  [2018 - ?  
-    Stack Labs  
-    _Big Data & Cloud Architect_](#stack-labs)
-
-*   [Prev](#0)
-*   [Next](#0)
-
-Work experience
-
-* * *
-
-Occupation or position held
-
-**Big Data & Cloud Architect**
-
-Since May 2018
-
-Toulouse, France
-
-Big Data Cloud
-
-Name of employer
-
-[Stack Labs](https://www.stack-labs.com)
-
-Type of business or sector
-
-IT mastery
-
-* * *
-
-Occupation or position held
-
-**Solutions Architect**
-
-From June 2014 to May 2018
-
-Toulouse, France
-
-Big Data Machine Learning Semantic Web
-
-Name of employer
-
-[Capgemini](http://www.capgemini.com)
-
-Type of business or sector
-
-Consulting & IT services
-
-Customer
-
-[Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)
-
-Main activities & responsibilities
-
-*   Functional architecture
-*   R & D in the fields of Big Data, Linked Data, Semantic Web, NoSQL
-*   Definition of a data management platform with Semantic Web technologies
-*   **MIPF on behalf of Airbus Defense & Space: Management and development of a large-scale computer cluster for processing satellite images**
-
-OpenStack Mesos Spark Docker Beats Kafka Elasticsearch LogstashKibana Google Cloud Platform
-
-* * *
-
-Occupation or position held
-
-**Founder of _Glue_ project**
-
-From september 2013 to june 2014
-
-Events Semantic Web Data curation Information Retrieval
-
-Type of business or sector
-
-Entrepreneurship, Startup
-
-Main activities & responsibilities
-
-Development
-
-Idea
-
-**_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural events._**  
+Occupation or position held: **Founder of _Glue_ project**  
+From September 2013 to June 2014  
+`Events` `Semantic Web` `Data curation` `Information Retrieval`  
+Type of business or sector: Entrepreneurship, Startup  
+Main activities & responsibilities: Development  
+Idea: **_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural events._**  
 The goal is to build a geolocated search engine that promotes discovery of cultural events around, and provides a greater visibility and legibility of content (texts, documents, images, videos, sounds ...) than classic event directories (FNAC, France Billet, Digitick).  
-The idea was proposed to several incubators for startups in the area of Toulouse, without success.
+The idea was proposed to several incubators for startups in the area of Toulouse, without success.  
+`Java` `JEE` `JSF` `Apache Tomee` `REST` `MySQL` `Apache Solr` `Apache OpenNLP` `Quartz Scheduler` `Maven` `GitHub` `Android`
 
-Java JEE JSF Apache Tomee REST MySQL Apache Solr Apache OpenNLP Quartz Scheduler Maven GitHub Android
-
-* * *
-
-Occupation or position held
-
-**Research internship**
-
-From March to August 2013
-
-[IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France
-
-Semantic Web Ontology Matching Query Patterns
-
-Subject
-
-**_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
+Occupation or position held: **Research internship**  
+From March to August 2013  
+[IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
+`Semantic Web` `Ontology Matching` `Query Patterns`  
+Subject: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
 In the context of the SWIP Question Answering system that queries an RDF database from questions formulated in natural language
-
-Java RDF SPARQL OWL
-
-Internship Memoir [![Internship Memoir](img/pdficon_small.png "Internship Memoir")](docs/research-internship/Internship_Memoir.pdf)  
+`Java` `RDF` `SPARQL` `OWL`  
+[Internship Memoir](docs/research-internship/Internship_Memoir.pdf)  
 See also [Publications](#publications)
 
-* * *
-
-Occupation or position held
-
-**Technical Manager**
-
+Occupation or position held: **Technical Manager**
 From April 2011 to September 2012
-
 Toulouse, France
+`Electronic Flight Folder`
+Name of employer: [GFI Informatique](http://www.gfi.fr/)
+Type of business or sector: Consulting & IT services
+Customer: [Airbus France](http://www.airbus.com/en/)
+Main activities & responsibilities: Development Monitoring, Continuous Integration, Design & Architecture, Configuration Management
+`Java` `JEE` `Hudson` `Subversion` `Maven` `Spring` `Hibernate` `RMI` `Swing`
+Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains all flight documents and related data such as the operational flight plan, weather, weather maps, [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.
 
-Electronic Flight Folder
-
-Name of employer
-
-[GFI Informatique](http://www.gfi.fr/)
-
-Type of business or sector
-
-Consulting & IT services
-
-Customer
-
-[Airbus France](http://www.airbus.com/en/)
-
-Main activities & responsibilities
-
-Development Monitoring, Continuous Integration, Design & Architecture, Configuration Management
-
-Java JEE Hudson Subversion Maven Spring Hibernate RMI Swing
-
-Functional aspects
-
-The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains all flight documents and related data such as the operational flight plan, weather, weather maps, [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.
-
-* * *
-
-Occupation or position held
-
-**Domain Leader Back Office**
-
-From October 2009 to April 2011
-
-Casablanca, Morocco ![](img/flags/png/ma.png)
-
-FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic
-
-Name of employer
-
-[GFI Maroc](http://www.gfimaroc.com/)
-
-Type of business or sector
-
-Consulting & IT services
-
-Customer
-
-[Airbus France](http://www.airbus.com/en/)
-
-Main activities & responsibilities
-
-Development Monitoring, Management of developer teams, Synchronization with Domain Leader Front Office
-
-Java JEE Jira Subversion Maven Spring Hibernate XML XSLT RMI Swing
-
-Functional aspects
-
-Software suite for the publication of operational aircraft manuals from XML to HTML.
-
-* * *
+Occupation or position held: **Domain Leader Back Office**  
+From October 2009 to April 2011  
+Casablanca, Morocco ![](img/flags/png/ma.png)  
+FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
+Name of employer: [GFI Maroc](http://www.gfimaroc.com/)  
+Type of business or sector: Consulting & IT services  
+Customer: [Airbus France](http://www.airbus.com/en/)  
+Main activities & responsibilities: Development Monitoring, Management of developer teams, Synchronization with Domain Leader Front Office  
+`Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
+Functional aspects : Software suite for the publication of operational aircraft manuals from XML to HTML.
 
 From April 2009 to September 2009
-
 _Australian interlude_ ![](img/flags/png/au.png)
-
-* * *
 
 Occupation or position held
 
@@ -395,129 +230,63 @@ Other details[](#collapseFour)
     *   Preprocessing Java tool for historized data of fly campaigns from filing equipment of Command Control (process interface) to build a coherent and stable corpus
     *   Java multi-layer perceptron (delta rule, gradient descent) to demonstrate that artificial neural networks alone are relevant for the given goal
 
-Education
+# Education
 
-* * *
-
-From 2012 to 2013
-
+- From 2012 to 2013  
 [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France
-
-Information Retrieval Search Engine Indexing Data Mining Multidimensional Databases Mobile Databases Semantic Web
-
-_**Master of Research in Computing & Telecommunications**  
-Information Retrieval, Databases & Multimedia_
-
+**_Master of Research in Computing & Telecommunications_**  
+_Information Retrieval, Databases & Multimedia_  
+`Information Retrieval` `Search Engine Indexing` `Data Mining` `Multidimensional Databases` `Mobile Databases` `Semantic Web`   
 5th year of university
 
-* * *
 
-From 2001 to 2002
-
+- From 2001 to 2002  
 [ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
-Institute of higher education in the field of applied information sciences and technologies
-
-Databases Advanced Programming Project Processes & Methodologies Artificial Intelligence
-
-**_Master of Sciences in Software Engineering_**
-
+Institute of higher education in the field of applied information sciences and technologies  
+`Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
+**_Master of Sciences in Software Engineering_**  
 5th year of university
 
-Certifications
+---
+# Certifications
 
-* * *
+1.  [_Google Cloud Professional Data Engineer_, Google, 2019](https://www.credential.net/fcf312b1-358e-4949-b283-41b3a68ed0f1?key=4570f60156adfe7021c5c4c7a6119884382e8ca39df3c8d34e26c583619a0532)
+2.  [_Google Cloud Associate Engineer_, Google, 2018](https://www.credential.net/2cb3b16d-7134-49c9-9acd-c9a07ceb170a?key=4ed1886a7c661e9d4131cb620bcda6476b212828c4055349b513d6bb9d9792b9)
+3.  [_Deep Learning Nanodegree Foundation_, Udacity, 2018](docs/certifications/nd101.pdf)
+4.  [_Scalable Machine Learning_, edX, 2015](docs/certifications/CS190.1x-Scalable-Machine-Learning.pdf)
+5.  [_Machine Learning_, Coursera, 2014](docs/certifications/Coursera-ml-2014.pdf)
 
-1.  _Google Cloud Professional Data Engineer_, Google, 2019[](https://www.credential.net/fcf312b1-358e-4949-b283-41b3a68ed0f1?key=4570f60156adfe7021c5c4c7a6119884382e8ca39df3c8d34e26c583619a0532 "Certificate")
-2.  _Google Cloud Associate Engineer_, Google, 2018[](https://www.credential.net/2cb3b16d-7134-49c9-9acd-c9a07ceb170a?key=4ed1886a7c661e9d4131cb620bcda6476b212828c4055349b513d6bb9d9792b9 "Certificate")
-3.  _Deep Learning Nanodegree Foundation_, Udacity, 2018 [![](img/pdficon_small.png)](docs/certifications/nd101.pdf "Certificate")
-4.  _Scalable Machine Learning_, edX, 2015 [![](img/pdficon_small.png)](docs/certifications/CS190.1x-Scalable-Machine-Learning.pdf "Certificate")
-5.  _Machine Learning_, Coursera, 2014 [![](img/pdficon_small.png)](docs/certifications/Coursera-ml-2014.pdf "Certificate")
-
-Publications
-
-* * *
+---
+# Publications
 
 1.  Pascal Gillet, Cassia Trojahn, Ollivier Haemmerlé. [_Réécriture de patrons de requêtes à l’aide d’alignements d’ontologies_](http://ontologies.alwaysdata.net/site_media/presentationsQetR/PascalGilletPresentation.pdf), PFIA2013, Ingénierie des Connaissances, Qualité & Robustesse pour le Web de données, Lille 2013 [![](img/pdficon_small.png)](docs/research-internship/IC_QetR_2013.pdf "Article") [![](img/pdficon_small.png)](docs/research-internship/PFIA-2013-defense.pdf "Presentation")
 2.  Pascal Gillet, Cassia Trojahn, Ollivier Haemmerlé, Camille Pradel. [_Complex Correspondences for Query Patterns Rewriting_](http://www.dit.unitn.it/~p2p/OM-2013/om2013_Tpaper5.pdf), Ontology Matching 2013, Sydney [![](img/pdficon_small.png)](docs/research-internship/OM_2013.pdf "Article") [![](img/pdficon_small.png)](docs/research-internship/OM_2013_presentation.pdf "Presentation")
 
-Technical skills
+---
+# Technical skills
 
-* * *
+**Advanced programming**: Java, Python
 
-Advanced programming
+**Cloud**: OpenStack, Google Cloud Platform, Libcloud, Mesos, OVHcloud
 
-Java, Python
+**Infrastructure/Configuration as Code**: Terraform, Ansible
 
-Platform for general use
+**Big Data**: Hadoop, Spark, Kafka
 
-Java SE (Standard Edition)
+**Search**: Solr, Elasticsearch
 
-Platform for server programming
+**Containerization**: Docker
 
-Java EE (Enterprise Edition)
+**Inversion of Control/Dependency Injection**: Spring
 
-Cloud
+**Databases**: Data modelling, relational model, SQL query language, NoSQL
 
-OpenStack, Google Cloud Platform, Libcloud, Mesos
+**Structured data**: XML, JSON
 
-Big Data
+**Software project management**: Ant, Maven
 
-Hadoop, Spark, Kafka
+**Version control system**: Git, Gitlab
 
-Search
-
-Solr, Elasticsearch
-
-Containerization
-
-Docker
-
-Web documents
-
-HTML, XHTML
-
-Semantic Web
-
-RDF, SPARQL, OWL
-
-Presentation description
-
-CSS
-
-Client-side scripting
-
-JavaScript, JQuery
-
-Dynamic Web content
-
-JSP/Servlets, JSF
-
-Servlet container
-
-Apache Tomcat
-
-Inversion of Control/Dependency Injection
-
-Spring
-
-Databases
-
-Data modelling, relational model, SQL query language, NoSQL
-
-Structured data
-
-XML, JSON
-
-Software project management
-
-Ant, Maven
-
-Version control system
-
-Git, Gitlab
-
-Personal activities
-
-* * *
+# Personal activities
 
 ![Hiking, Climbing](img/rando.png "Hiking, Climbing") ![Running](img/running.png "Running") ![Badminton](img/tennis.png "Badminton") ![Snowboard](img/ski.png "Snowboard")[](http://pascalgillet.jalbum.net/)
