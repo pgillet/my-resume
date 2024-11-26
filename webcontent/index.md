@@ -176,15 +176,14 @@ Other details:
 
 # Education
 
-- :date: From 2012 to 2013  
-:round_pushpin: [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France
+:date: From 2012 to 2013  
+:round_pushpin: [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France  
 **_Master of Research in Computing & Telecommunications_**  
 _Information Retrieval, Databases & Multimedia_  
 `Information Retrieval` `Search Engine Indexing` `Data Mining` `Multidimensional Databases` `Mobile Databases` `Semantic Web`   
 5th year of university
 
-
-- :date: From 2001 to 2002  
+:date: From 2001 to 2002  
 :round_pushpin:[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
 Institute of higher education in the field of applied information sciences and technologies  
 `Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
