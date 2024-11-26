@@ -20,7 +20,7 @@ Pascal GILLET Software & Data Architect
 
 Occupation or position held: **Big Data & Cloud Architect**  
 :date: From May 2018 to August 2023  
-Toulouse, France  
+:round_pushpin: Toulouse, France  
 `Big Data` `Cloud`  
 Name of employer: [Stack Labs](https://www.stack-labs.com)  
 Type of business or sector: IT mastery  
@@ -28,7 +28,7 @@ Type of business or sector: IT mastery
 
 Occupation or position held: **Solutions Architect**  
 :date: From June 2014 to May 2018  
-Toulouse, France  
+:round_pushpin: Toulouse, France  
 `Big Data` `Machine Learning` `Semantic Web`  
 Name of employer: [Capgemini](http://www.capgemini.com)  
 Type of business or sector: Consulting & IT services  
@@ -52,7 +52,7 @@ The idea was proposed to several incubators for startups in the area of Toulouse
 
 Occupation or position held: **Research internship**  
 :date: From March to August 2013  
-[IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
+:round_pushpin: [IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
 `Semantic Web` `Ontology Matching` `Query Patterns`  
 Subject: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
 In the context of the SWIP Question Answering system that queries an RDF database from questions formulated in natural language
@@ -62,7 +62,7 @@ See also [Publications](#publications)
 
 Occupation or position held: **Technical Manager**  
 :date: From April 2011 to September 2012  
-Toulouse, France  
+:round_pushpin: Toulouse, France  
 `Electronic Flight Folder`
 Name of employer: [GFI Informatique](http://www.gfi.fr/)  
 Type of business or sector: Consulting & IT services  
@@ -73,7 +73,7 @@ Functional aspects: The embedded application EFF (Electronic Flight Folder) is d
 
 Occupation or position held: **Domain Leader Back Office**  
 :date: From October 2009 to April 2011  
-Casablanca, Morocco ![](img/flags/png/ma.png)  
+:round_pushpin: Casablanca, Morocco ![](img/flags/png/ma.png)  
 FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
 Name of employer: [GFI Maroc](http://www.gfimaroc.com/)  
 Type of business or sector: Consulting & IT services  
@@ -87,7 +87,7 @@ _Australian interlude_ ![](img/flags/png/au.png)
 
 Occupation or position held: **Software engineer**  
 :date: From June 2007 to April 2009  
-Toulouse, France with missions in Cameroon and New Caledonia  
+:round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia  
 `Telecoms` `Billing`  
 Name of employer: [GFI Informatique](http://www.gfi.fr)  
 Type of business or sector: Consulting & IT services  
@@ -126,7 +126,7 @@ Recognizing potential reuse in the organization or in the existent Alcatel’s a
 
 Occupation or position held: **Software Engineer**  
 :date: From September 2003 to May 2007  
-Toulouse, France  
+:round_pushpin: Toulouse, France  
 `SGR` 
 Name of employer: [Sogeti High Tech](http://www.sogeti.com)  
 Type of business or sector: Consulting & IT services  
@@ -156,7 +156,7 @@ Proposal and implementation of the **FLS library** covering the [ARINC](https://
 
 Occupation or position held: **Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
 :date: From April 2002 to October 2002  
-Evry, France  
+:round_pushpin: Evry, France  
 `Neural Networks` `Machine Learning` 
 Name of employer: [CNES](http://www.cnes.fr)  
 Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space policy, presenting it to the government, and implementing it.  
@@ -177,7 +177,7 @@ Other details:
 # Education
 
 - :date: From 2012 to 2013  
-[IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France
+:round_pushpin: [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France
 **_Master of Research in Computing & Telecommunications_**  
 _Information Retrieval, Databases & Multimedia_  
 `Information Retrieval` `Search Engine Indexing` `Data Mining` `Multidimensional Databases` `Mobile Databases` `Semantic Web`   
@@ -185,7 +185,7 @@ _Information Retrieval, Databases & Multimedia_
 
 
 - :date: From 2001 to 2002  
-[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
+:round_pushpin:[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
 Institute of higher education in the field of applied information sciences and technologies  
 `Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
 **_Master of Sciences in Software Engineering_**  
