@@ -82,39 +82,19 @@ Main activities & responsibilities: Development Monitoring, Management of develo
 `Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
 Functional aspects : Software suite for the publication of operational aircraft manuals from XML to HTML.
 
-From April 2009 to September 2009
-_Australian interlude_ ![](img/flags/png/au.png)
+From April 2009 to September 2009  
+_Australian interlude_ ![](img/flags/png/au.png)  
 
-Occupation or position held
-
-**Software engineer**
-
+Occupation or position held: **Software engineer**
 From June 2007 to April 2009
-
 Toulouse, France with missions in Cameroon and New Caledonia
-
-Telecoms Billing
-
-Name of employer
-
-[GFI Informatique](http://www.gfi.fr)
-
-Type of business or sector
-
-Consulting & IT services
-
-Customer
-
-[Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)
-
-Main activities & responsibilities
-
-Development, Design & Architecture, Technical Management, Java/JEE support
-
-Java JEE JSP Servlet Tomcat HTML CSS JavaScript Maven Ant Struts CVS
-
-Functional aspects
-
+`Telecoms` `Billing` 
+Name of employer: [GFI Informatique](http://www.gfi.fr)
+Type of business or sector: Consulting & IT services  
+Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)
+Main activities & responsibilities: Development, Design & Architecture, Technical Management, Java/JEE support
+`Java` `JEE` `JSP` `Servlet` `Tomcat` `HTML` `CSS` `JavaScript` `Maven` `Ant` `Struts` `CVS`  
+Functional aspects:  
 Telecommunications billing and customer care systems: Alcatel combines billing solutions, like [BSCS](http://h71028.www7.hp.com/enterprise/cache/4777-0-0-0-121.html) of [LHS](http://www.lhsgroup.com/) or [Convergys](http://www.convergys.com/), with its home-made applications, project management and integration skills to provide end-to-end billing solutions to all telecom carriers (fixed and mobile), from customer management to network interaction.
 
 Projects[](#collapseOne)
