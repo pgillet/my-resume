@@ -236,7 +236,7 @@ _Information Retrieval, Databases & Multimedia_
 
 :date: From 2001 to 2002  
 :round_pushpin:[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
-Institute of higher education in the field of applied information sciences and technologies
+Institute of higher education in the field of applied information sciences and technologies  
 :mortar_board: **_Master of Sciences in Software Engineering_**  
 `Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
 5th year of university
