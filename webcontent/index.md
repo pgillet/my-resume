@@ -208,9 +208,11 @@ Institute of higher education in the field of applied information sciences and t
 
 **Advanced programming**: Java, Python
 
-**Cloud**: OpenStack, Google Cloud Platform, Libcloud, Mesos, OVHcloud
+**Cloud**: Google Cloud Platform, OVHcloud, OpenStack 
 
 **Infrastructure/Configuration as Code**: Terraform, Ansible
+
+**Continuous Integration & Deployment**: Gitlab CI
 
 **Big Data**: Hadoop, Spark, Kafka
 
@@ -218,11 +220,13 @@ Institute of higher education in the field of applied information sciences and t
 
 **Containerization**: Docker
 
+**Container orchestration**: Kubernetes, Nomad, Mesos
+
 **Inversion of Control/Dependency Injection**: Spring
 
 **Databases**: Data modelling, relational model, SQL query language, NoSQL
 
-**Structured data**: XML, JSON
+**Structured data**: XML, JSON, YAML
 
 **Software project management**: Ant, Maven
 
