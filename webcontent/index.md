@@ -90,7 +90,7 @@ Customer: [Airbus France](http://www.airbus.com/en/)
 _Main activities & responsibilities_: Development Monitoring, Continuous Integration, Design & Architecture, 
 Configuration Management  
 `Java` `JEE` `Hudson` `Subversion` `Maven` `Spring` `Hibernate` `RMI` `Swing`  
-Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains 
+:mag: Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains 
 all flight documents and related data such as the operational flight plan, weather, weather maps, 
 [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.  
 
@@ -104,7 +104,7 @@ Customer: [Airbus France](http://www.airbus.com/en/)
 _Main activities & responsibilities_: Development Monitoring, Management of developer teams, Synchronization with Domain 
 Leader Front Office  
 `Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
-Functional aspects : Software suite for the publication of operational aircraft manuals from XML to HTML.
+:mag: Functional aspects : Software suite for the publication of operational aircraft manuals from XML to HTML.
 
 :date: From April 2009 to September 2009  
 _Australian interlude_ ![](img/flags/png/au.png)  
@@ -118,7 +118,7 @@ _Type of business or sector_: Consulting & IT services
 Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
 _Main activities & responsibilities_: Development, Design & Architecture, Technical Management, Java/JEE support  
 `Java` `JEE` `JSP` `Servlet` `Tomcat` `HTML` `CSS` `JavaScript` `Maven` `Ant` `Struts` `CVS`  
-Functional aspects:  
+:mag: Functional aspects:  
 Telecommunications billing and customer care systems: Alcatel combines billing solutions, like 
 [BSCS](http://h71028.www7.hp.com/enterprise/cache/4777-0-0-0-121.html) of [LHS](http://www.lhsgroup.com/) or 
 [Convergys](http://www.convergys.com/), with its home-made applications, project management and integration skills to 
@@ -172,7 +172,7 @@ Customer: [Airbus France](http://www.airbus.com/en/)
 _Main activities & responsibilities_: Analysis, design & development of the application, Keep up to date project 
 documentation, Help desk, Project management for a business sub-component  
 `Java` `JEE` `JBoss` `Websphere` `Oracle` `JSP` `Servlet` `CVS`
-Functional aspects:  
+:mag: Functional aspects:  
 **Software Ground Repository (SGR)**: web server utility accessible from the Airbus and EADS networks (France, Germany, 
 Spain) allowing to manage and distribute operation flight software programs and other forms of software used within the 
 airline organization. It includes software validation, software receiving and distribution.
@@ -211,7 +211,7 @@ _Main activities & responsibilities_:
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
 _Or how to be 15 years ahead of the fashion of Deep Learning_ :sunglasses:
 
-Functional aspects:  
+:mag: Functional aspects:  
 Providing help for decision-making to keyboard operators watching the Ariane 5 rocket during the launch phase in the 
 Operations room of the Guiana Space Centre (Practical study on the hydraulic systems)
 
