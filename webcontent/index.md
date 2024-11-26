@@ -124,93 +124,55 @@ Recognizing potential reuse in the organization or in the existent Alcatel’s a
 *   Implemented a reusable BSCS login module (JAAS) for the authentication and authorization of users
 *   Implemented a library achieving logging separation, i.e. distinct configuration of multiple web applications while sharing the logging binaries in the Servlet container (or any JEE environment)
 
-* * *
-
-Occupation or position held
-
-**Software Engineer**
-
-From September 2003 to May 2007
-
-Toulouse, France
-
-SGR
-
-Name of employer
-
-[Sogeti High Tech](http://www.sogeti.com)
-
-Type of business or sector
-
-Consulting & IT services
-
-Customer
-
-[Airbus France](http://www.airbus.com/en/)
-
-Main activities & responsibilities
-
-Analysis, design & development of the application, Keep up to date project documentation, Help desk, Project management for a business sub-component
-
-Java JEE JBoss Websphere Oracle JSP Servlet CVS
-
-Functional aspects
-
+Occupation or position held: **Software Engineer**  
+From September 2003 to May 2007  
+Toulouse, France  
+`SGR` 
+Name of employer: [Sogeti High Tech](http://www.sogeti.com)  
+Type of business or sector: Consulting & IT services  
+Customer: [Airbus France](http://www.airbus.com/en/)  
+Main activities & responsibilities: Analysis, design & development of the application, Keep up to date project documentation, Help desk, Project management for a business sub-component  
+`Java` `JEE` `JBoss` `Websphere` `Oracle` `JSP` `Servlet` `CVS`
+Functional aspects:  
 **Software Ground Repository (SGR)**: web server utility accessible from the Airbus and EADS networks (France, Germany, Spain) allowing to manage and distribute operation flight software programs and other forms of software used within the airline organization. It includes software validation, software receiving and distribution.
 
-*   Storage of large amount of software
-*   Integration with various external applications (SAP)
-*   Multi aircraft programs: A380, A400M, etc.
-*   Full-time availability
+- Storage of large amount of software
+- Integration with various external applications (SAP)
+- Multi aircraft programs: A380, A400M, etc.
+- Full-time availability
 
-Other boring details[](#collapseThree)
+Other boring details:
 
 **Release 4**: proposal and implementation of an architecture overhaul due to a performance degradation caused by an increasing activity and a monolithic architecture implemented on earlier prototype based solutions (poor mechanisms for file locking, then worked poorly with multiple users):
 
-*   Business logic components: EJB allowing concurrency control & transaction processing
-*   Application servers: JBoss (development), WebSphere (integration & production environments)
-*   Persistence layer: Hibernate
-*   RDBMS: Oracle
-*   Storage of raw data representing software in BLOBs
-*   Messaging service (JMS) for asynchronous data transfer (data mirroring) and operation notification
+- Business logic components: EJB allowing concurrency control & transaction processing
+- Application servers: JBoss (development), WebSphere (integration & production environments)
+- Persistence layer: Hibernate
+- RDBMS: Oracle
+- Storage of raw data representing software in BLOBs
+- Messaging service (JMS) for asynchronous data transfer (data mirroring) and operation notification
 
 Proposal and implementation of the **FLS library** covering the [ARINC](https://www.arinc.com/cf/store/catalog_detail.cfm?item_id=78) specification. The library aims to read, write and validate Field Loadable Softwares by ensuring data integrity and authenticity. It has been primarily used within the architecture quoted above but can be reused for other applications within the airline organization as this file format is very widespread at it.
 
-* * *
-
-Occupation or position held
-
-**Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**
-
-From April 2002 to October 2002
-
-Evry, France
-
-Neural Networks Machine Learning
-
-Name of employer
-
-[CNES](http://www.cnes.fr)
-
-Type of business or sector
-
-CNES is the French national space agency. CNES is responsible for shaping France's space policy, presenting it to the government, and implementing it.
-
-Main activities & responsibilities
-
+Occupation or position held: **Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
+From April 2002 to October 2002  
+Evry, France  
+`Neural Networks` `Machine Learning` 
+Name of employer: [CNES](http://www.cnes.fr)  
+Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space policy, presenting it to the government, and implementing it.  
+Main activities & responsibilities:  
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
 _Or how to be 15 years ahead of the fashion of Deep Learning_
 
-Functional aspects
-
+Functional aspects:  
 Providing help for decision-making to keyboard operators watching the Ariane 5 rocket during the launch phase in the Operations room of the Guiana Space Centre (Practical study on the hydraulic systems)
 
-Other details[](#collapseFour)
+Other details:
 
-*   **Working environment**: Study of different software solutions dedicated to data flow analysis in real time (neural networks, non-linear regressions)
-*   **Realizations:**
-    *   Preprocessing Java tool for historized data of fly campaigns from filing equipment of Command Control (process interface) to build a coherent and stable corpus
-    *   Java multi-layer perceptron (delta rule, gradient descent) to demonstrate that artificial neural networks alone are relevant for the given goal
+- **Working environment**: Study of different software solutions dedicated to data flow analysis in real time (neural networks, non-linear regressions)
+- **Realizations:**
+  - Preprocessing Java tool for historized data of fly campaigns from filing equipment of Command Control (process interface) to build a coherent and stable corpus
+  - Java multi-layer perceptron (delta rule, gradient descent) to demonstrate that artificial neural networks alone are relevant for the given goal
 
 # Education
 
@@ -229,7 +191,6 @@ Institute of higher education in the field of applied information sciences and t
 **_Master of Sciences in Software Engineering_**  
 5th year of university
 
----
 # Certifications
 
 1.  [_Google Cloud Professional Data Engineer_, Google, 2019](https://www.credential.net/fcf312b1-358e-4949-b283-41b3a68ed0f1?key=4570f60156adfe7021c5c4c7a6119884382e8ca39df3c8d34e26c583619a0532)
@@ -238,13 +199,11 @@ Institute of higher education in the field of applied information sciences and t
 4.  [_Scalable Machine Learning_, edX, 2015](docs/certifications/CS190.1x-Scalable-Machine-Learning.pdf)
 5.  [_Machine Learning_, Coursera, 2014](docs/certifications/Coursera-ml-2014.pdf)
 
----
 # Publications
 
 1.  Pascal Gillet, Cassia Trojahn, Ollivier Haemmerlé. [_Réécriture de patrons de requêtes à l’aide d’alignements d’ontologies_](http://ontologies.alwaysdata.net/site_media/presentationsQetR/PascalGilletPresentation.pdf), PFIA2013, Ingénierie des Connaissances, Qualité & Robustesse pour le Web de données, Lille 2013 [![](img/pdficon_small.png)](docs/research-internship/IC_QetR_2013.pdf "Article") [![](img/pdficon_small.png)](docs/research-internship/PFIA-2013-defense.pdf "Presentation")
 2.  Pascal Gillet, Cassia Trojahn, Ollivier Haemmerlé, Camille Pradel. [_Complex Correspondences for Query Patterns Rewriting_](http://www.dit.unitn.it/~p2p/OM-2013/om2013_Tpaper5.pdf), Ontology Matching 2013, Sydney [![](img/pdficon_small.png)](docs/research-internship/OM_2013.pdf "Article") [![](img/pdficon_small.png)](docs/research-internship/OM_2013_presentation.pdf "Presentation")
 
----
 # Technical skills
 
 **Advanced programming**: Java, Python
