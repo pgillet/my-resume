@@ -21,7 +21,7 @@ Pascal GILLET Software & Data Architect
 Occupation or position held: **Big Data & Cloud Architect**  
 From May 2018 to August 2023  
 Toulouse, France  
-Big Data Cloud  
+`Big Data` `Cloud`  
 Name of employer: [Stack Labs](https://www.stack-labs.com)  
 Type of business or sector: IT mastery  
 
