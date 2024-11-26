@@ -103,7 +103,7 @@ Projects:
   - **Specific Modules**: Back-office web application providing billing and payment operations on top of BSCS, keeping a record of the organization’s sales and purchase transactions, and producing invoices, receipts and reports.
   - **Self care**: Front office web application allowing post-paid subscribers to manage their billing and account information, such as viewing their account balances and payment histories.
   
-    June/July 2007: Mission in Nouméa, New Caledonia, for integration and development on the fly. ![](img/flags/png/nc.png)
+  June/July 2007: Mission in Nouméa, New Caledonia, for integration and development on the fly. ![](img/flags/png/nc.png)
 
 - **Orange Cameroon**: Stock (Inventory) management web application accessible from the Orange stores in all Cameroon, allowing creation of purchase order requests, product life cycle management and reporting; operating with the Alcatel's cashier application for product selling.
 
