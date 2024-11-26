@@ -234,4 +234,4 @@ Institute of higher education in the field of applied information sciences and t
 
 # Personal activities
 
-![Hiking, Climbing](img/rando.png "Hiking, Climbing") ![Running](img/running.png "Running") ![cycling](img/velo.png "Cycling") ![Snowboard](img/ski.png "Snowboard")  [:camera:](http://pascalgillet.jalbum.net/ "Photography")
+:walking: :running: :mount_fuji: :bicycling: :snowboarder: :camera:
