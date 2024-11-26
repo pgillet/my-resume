@@ -19,7 +19,7 @@ Pascal GILLET Software & Data Architect
 # Work experience
 
 Occupation or position held: **Big Data & Cloud Architect**  
-From May 2018 to August 2023  
+:date: From May 2018 to August 2023  
 Toulouse, France  
 `Big Data` `Cloud`  
 Name of employer: [Stack Labs](https://www.stack-labs.com)  
@@ -27,7 +27,7 @@ Type of business or sector: IT mastery
 
 
 Occupation or position held: **Solutions Architect**  
-From June 2014 to May 2018  
+:date: From June 2014 to May 2018  
 Toulouse, France  
 `Big Data` `Machine Learning` `Semantic Web`  
 Name of employer: [Capgemini](http://www.capgemini.com)  
@@ -41,7 +41,7 @@ Main activities & responsibilities:
 `OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
 
 Occupation or position held: **Founder of _Glue_ project**  
-From September 2013 to June 2014  
+:date: From September 2013 to June 2014  
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
 Type of business or sector: Entrepreneurship, Startup  
 Main activities & responsibilities: Development  
@@ -51,7 +51,7 @@ The idea was proposed to several incubators for startups in the area of Toulouse
 `Java` `JEE` `JSF` `Apache Tomee` `REST` `MySQL` `Apache Solr` `Apache OpenNLP` `Quartz Scheduler` `Maven` `GitHub` `Android`
 
 Occupation or position held: **Research internship**  
-From March to August 2013  
+:date: From March to August 2013  
 [IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
 `Semantic Web` `Ontology Matching` `Query Patterns`  
 Subject: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
@@ -61,7 +61,7 @@ In the context of the SWIP Question Answering system that queries an RDF databas
 See also [Publications](#publications)
 
 Occupation or position held: **Technical Manager**  
-From April 2011 to September 2012  
+:date: From April 2011 to September 2012  
 Toulouse, France  
 `Electronic Flight Folder`
 Name of employer: [GFI Informatique](http://www.gfi.fr/)  
@@ -72,7 +72,7 @@ Main activities & responsibilities: Development Monitoring, Continuous Integrati
 Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains all flight documents and related data such as the operational flight plan, weather, weather maps, [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.  
 
 Occupation or position held: **Domain Leader Back Office**  
-From October 2009 to April 2011  
+:date: From October 2009 to April 2011  
 Casablanca, Morocco ![](img/flags/png/ma.png)  
 FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
 Name of employer: [GFI Maroc](http://www.gfimaroc.com/)  
@@ -82,11 +82,11 @@ Main activities & responsibilities: Development Monitoring, Management of develo
 `Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
 Functional aspects : Software suite for the publication of operational aircraft manuals from XML to HTML.
 
-From April 2009 to September 2009  
+:date: From April 2009 to September 2009  
 _Australian interlude_ ![](img/flags/png/au.png)  
 
 Occupation or position held: **Software engineer**  
-From June 2007 to April 2009  
+:date: From June 2007 to April 2009  
 Toulouse, France with missions in Cameroon and New Caledonia  
 `Telecoms` `Billing`  
 Name of employer: [GFI Informatique](http://www.gfi.fr)  
@@ -125,7 +125,7 @@ Recognizing potential reuse in the organization or in the existent Alcatel’s a
 *   Implemented a library achieving logging separation, i.e. distinct configuration of multiple web applications while sharing the logging binaries in the Servlet container (or any JEE environment)
 
 Occupation or position held: **Software Engineer**  
-From September 2003 to May 2007  
+:date: From September 2003 to May 2007  
 Toulouse, France  
 `SGR` 
 Name of employer: [Sogeti High Tech](http://www.sogeti.com)  
@@ -155,7 +155,7 @@ Other boring details:
 Proposal and implementation of the **FLS library** covering the [ARINC](https://www.arinc.com/cf/store/catalog_detail.cfm?item_id=78) specification. The library aims to read, write and validate Field Loadable Softwares by ensuring data integrity and authenticity. It has been primarily used within the architecture quoted above but can be reused for other applications within the airline organization as this file format is very widespread at it.
 
 Occupation or position held: **Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
-From April 2002 to October 2002  
+:date: From April 2002 to October 2002  
 Evry, France  
 `Neural Networks` `Machine Learning` 
 Name of employer: [CNES](http://www.cnes.fr)  
@@ -176,7 +176,7 @@ Other details:
 
 # Education
 
-- From 2012 to 2013  
+- :date: From 2012 to 2013  
 [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France
 **_Master of Research in Computing & Telecommunications_**  
 _Information Retrieval, Databases & Multimedia_  
@@ -184,7 +184,7 @@ _Information Retrieval, Databases & Multimedia_
 5th year of university
 
 
-- From 2001 to 2002  
+- :date: From 2001 to 2002  
 [ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
 Institute of higher education in the field of applied information sciences and technologies  
 `Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
@@ -206,31 +206,19 @@ Institute of higher education in the field of applied information sciences and t
 
 # Technical skills
 
-**Advanced programming**: Java, Python
-
-**Cloud**: Google Cloud Platform, OVHcloud, OpenStack 
-
-**Infrastructure/Configuration as Code**: Terraform, Ansible
-
-**Continuous Integration & Deployment**: Gitlab CI
-
-**Big Data**: Hadoop, Spark, Kafka
-
-**Search**: Solr, Elasticsearch
-
-**Containerization**: Docker
-
-**Container orchestration**: Kubernetes, Nomad, Mesos
-
-**Inversion of Control/Dependency Injection**: Spring
-
-**Databases**: Data modelling, relational model, SQL query language, NoSQL
-
-**Structured data**: XML, JSON, YAML
-
-**Software project management**: Ant, Maven
-
-**Version control system**: Git, Gitlab
+**Advanced programming**: Java, Python  
+**Cloud**: Google Cloud Platform, OVHcloud, OpenStack  
+**Infrastructure/Configuration as Code**: Terraform, Ansible  
+**Continuous Integration & Deployment**: Gitlab CI  
+**Big Data**: Hadoop, Spark, Kafka  
+**Search**: Solr, Elasticsearch  
+**Containerization**: Docker  
+**Container orchestration**: Kubernetes, Nomad, Mesos  
+**Inversion of Control/Dependency Injection**: Spring  
+**Databases**: Data modelling, relational model, SQL query language, NoSQL  
+**Structured data**: XML, JSON, YAML  
+**Software project management**: Ant, Maven  
+**Version control system**: Git, Gitlab  
 
 # Personal activities
 
