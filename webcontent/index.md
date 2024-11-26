@@ -163,7 +163,7 @@ sharing the logging binaries in the Servlet container (or any JEE environment)
 Occupation or position held: **Software Engineer**  
 :date: From September 2003 to May 2007  
 :round_pushpin: Toulouse, France  
-`SGR` 
+`SGR`  
 Name of employer: [Sogeti High Tech](http://www.sogeti.com)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
