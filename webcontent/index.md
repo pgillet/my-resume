@@ -1,10 +1,11 @@
-# Hello, world! from Pascal GILLET - DevOps/Data Engineering/Software Development
+# Pascal GILLET - DevOps/Data Engineering/Software Development
+ 
+Hello, world! I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
 
-I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
 In my everyday work, I am involved in cloud computing and data management in general: issues related to the capture, 
 storage, retrieval, sharing, analysis and visualization of (big) data. 
 
-I define myself as a technical person and I love getting my hands in the code.
+I define myself as a technical person and I love getting my hands into the code.
 
 This resume is primarily for myself to keep track of the really boring details of my professional life.
 
@@ -181,7 +182,7 @@ Other details:
   - Preprocessing Java tool for historized data of fly campaigns from filing equipment of Command Control (process interface) to build a coherent and stable corpus
   - Java multi-layer perceptron (delta rule, gradient descent) to demonstrate that artificial neural networks alone are relevant for the given goal
 
-# Education
+## Education
 
 :date: From 2012 to 2013  
 :round_pushpin: [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France  
@@ -197,7 +198,7 @@ Institute of higher education in the field of applied information sciences and t
 **_Master of Sciences in Software Engineering_**  
 5th year of university
 
-# Certifications
+## Certifications
 
 1.  [_Google Cloud Professional Data Engineer_, Google, 2019](https://www.credential.net/fcf312b1-358e-4949-b283-41b3a68ed0f1?key=4570f60156adfe7021c5c4c7a6119884382e8ca39df3c8d34e26c583619a0532)
 2.  [_Google Cloud Associate Engineer_, Google, 2018](https://www.credential.net/2cb3b16d-7134-49c9-9acd-c9a07ceb170a?key=4ed1886a7c661e9d4131cb620bcda6476b212828c4055349b513d6bb9d9792b9)
@@ -205,12 +206,12 @@ Institute of higher education in the field of applied information sciences and t
 4.  [_Scalable Machine Learning_, edX, 2015](docs/certifications/CS190.1x-Scalable-Machine-Learning.pdf)
 5.  [_Machine Learning_, Coursera, 2014](docs/certifications/Coursera-ml-2014.pdf)
 
-# Publications
+## Publications
 
 1.  Pascal Gillet, Cassia Trojahn, Ollivier Haemmerlé. [_Réécriture de patrons de requêtes à l’aide d’alignements d’ontologies_](http://ontologies.alwaysdata.net/site_media/presentationsQetR/PascalGilletPresentation.pdf), PFIA2013, Ingénierie des Connaissances, Qualité & Robustesse pour le Web de données, Lille 2013 [![](img/pdficon_small.png)](docs/research-internship/IC_QetR_2013.pdf "Article") [![](img/pdficon_small.png)](docs/research-internship/PFIA-2013-defense.pdf "Presentation")
 2.  Pascal Gillet, Cassia Trojahn, Ollivier Haemmerlé, Camille Pradel. [_Complex Correspondences for Query Patterns Rewriting_](http://www.dit.unitn.it/~p2p/OM-2013/om2013_Tpaper5.pdf), Ontology Matching 2013, Sydney [![](img/pdficon_small.png)](docs/research-internship/OM_2013.pdf "Article") [![](img/pdficon_small.png)](docs/research-internship/OM_2013_presentation.pdf "Presentation")
 
-# Technical skills
+## Technical skills
 
 **Advanced programming**: Java, Python  
 **Cloud**: Google Cloud Platform, OVHcloud, OpenStack  
@@ -226,6 +227,6 @@ Institute of higher education in the field of applied information sciences and t
 **Software project management**: Ant, Maven  
 **Version control system**: Git, Gitlab  
 
-# Personal activities
+## Personal activities
 
 :walking: :running: :mount_fuji: :bicyclist: :snowboarder: :camera:
