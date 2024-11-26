@@ -162,7 +162,7 @@ Name of employer: [CNES](http://www.cnes.fr)
 Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space policy, presenting it to the government, and implementing it.  
 Main activities & responsibilities:  
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
-_Or how to be 15 years ahead of the fashion of Deep Learning_
+_Or how to be 15 years ahead of the fashion of Deep Learning_ :sunglasses:
 
 Functional aspects:  
 Providing help for decision-making to keyboard operators watching the Ariane 5 rocket during the launch phase in the Operations room of the Guiana Space Centre (Practical study on the hydraulic systems)
