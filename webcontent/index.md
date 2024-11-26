@@ -23,30 +23,30 @@ This resume is primarily for myself to keep track of the really boring details o
 
 **Data Engineer**  
 :date: From August 2023 to -  
-:round_pushpin: Toulouse, France  
-`DevOps`  
+:round_pushpin: Toulouse, France
 :office: [Exotrail](https://www.exotrail.com)  
 Exotrail is a space service company from Palaiseau, Ile-de-France, France, founded in 2017. The company produces 
 electric propulsion systems used in smallsats. It also develops an orbital transfer vehicle - the SpaceVan - for 
 smallsats.  
 _Type of business or sector_: new space :rocket:  
 _Main activities & responsibilities_: DevOps engineering mostly, I don't really do data engineering yet...But data is 
-coming!
+coming!  
+`DevOps`
 
 **Big Data & Cloud Architect**  
 :date: From May 2018 to August 2023  
-:round_pushpin: Toulouse, France  
-`Big Data` `Cloud`  
+:round_pushpin: Toulouse, France   
 :office: [Stack Labs](https://www.stack-labs.com)  
-_Type of business or sector_: IT mastery
+_Type of business or sector_: IT mastery  
+`Big Data` `Cloud`
 
 **Solutions Architect**  
 :date: From June 2014 to May 2018  
-:round_pushpin: Toulouse, France  
-`Big Data` `Machine Learning` `Semantic Web`  
+:round_pushpin: Toulouse, France   
 :office: [Capgemini](http://www.capgemini.com)  
 _Type of business or sector_: Consulting & IT services  
-Customer: [Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)  
+_Customer_: [Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)  
+`Big Data` `Machine Learning` `Semantic Web`  
 _Main activities & responsibilities_:
 - Functional architecture
 - R&D in the fields of Big Data, Linked Data, Semantic Web, NoSQL
@@ -57,11 +57,11 @@ processing satellite images**
 `OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
 
 **Founder of _Glue_ project**  
-:date: From September 2013 to June 2014  
+:date: From September 2013 to June 2014
+_Type of business or sector_: Entrepreneurship, Startup
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
-_Type of business or sector_: Entrepreneurship, Startup  
 _Main activities & responsibilities_: Development  
-Idea: **_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural 
+:bulb: Idea: **_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural 
 events._**  
 The goal is to build a geolocated search engine that promotes discovery of cultural events around, and provides a 
 greater visibility and legibility of content (texts, documents, images, videos, sounds ...) than classic event 
@@ -73,7 +73,7 @@ The idea was proposed to several incubators for startups in the area of Toulouse
 :date: From March to August 2013  
 :round_pushpin: [IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
 `Semantic Web` `Ontology Matching` `Query Patterns`  
-Subject: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in 
+:mag: _Subject_: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in 
 Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
 In the context of the SWIP Question Answering system that queries an RDF database from questions formulated in natural 
 language
@@ -83,11 +83,11 @@ See also [Publications](#publications)
 
 **Technical Manager**  
 :date: From April 2011 to September 2012  
-:round_pushpin: Toulouse, France  
-`Electronic Flight Folder`  
+:round_pushpin: Toulouse, France   
 :office: [GFI Informatique](http://www.gfi.fr/)  
 _Type of business or sector_: Consulting & IT services  
-Customer: [Airbus France](http://www.airbus.com/en/)  
+_Customer_: [Airbus France](http://www.airbus.com/en/)
+`Electronic Flight Folder`  
 _Main activities & responsibilities_: Development Monitoring, Continuous Integration, Design & Architecture, 
 Configuration Management  
 `Java` `JEE` `Hudson` `Subversion` `Maven` `Spring` `Hibernate` `RMI` `Swing`  
@@ -97,26 +97,25 @@ all flight documents and related data such as the operational flight plan, weath
 
 **Domain Leader Back Office**  
 :date: From October 2009 to April 2011  
-:round_pushpin: Casablanca, Morocco ![](img/flags/png/ma.png)  
-FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
+:round_pushpin: Casablanca, Morocco ![Morocco](img/flags/png/ma.png)   
 :office: [GFI Maroc](http://www.gfimaroc.com/)  
 _Type of business or sector_: Consulting & IT services  
-Customer: [Airbus France](http://www.airbus.com/en/)  
+_Customer_: [Airbus France](http://www.airbus.com/en/)  
 _Main activities & responsibilities_: Development Monitoring, Management of developer teams, Synchronization with Domain 
-Leader Front Office  
-`Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
+Leader Front Office
 :mag: _Functional aspects_ : Software suite for the publication of operational aircraft manuals from XML to HTML.
+`Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
 
 :date: From April 2009 to September 2009  
 _Australian interlude_ ![](img/flags/png/au.png)  
 
 **Software engineer**  
 :date: From June 2007 to April 2009  
-:round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia  
-`Telecoms` `Billing`  
+:round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia
 :office: [GFI Informatique](http://www.gfi.fr)  
 _Type of business or sector_: Consulting & IT services  
-Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
+_Customer_: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
+`Telecoms` `Billing`  
 _Main activities & responsibilities_: Development, Design & Architecture, Technical Management, Java/JEE support  
 `Java` `JEE` `JSP` `Servlet` `Tomcat` `HTML` `CSS` `JavaScript` `Maven` `Ant` `Struts` `CVS`  
 :mag: _Functional aspects_:  
@@ -165,11 +164,11 @@ sharing the logging binaries in the Servlet container (or any JEE environment)
 
 **Software Engineer**  
 :date: From September 2003 to May 2007  
-:round_pushpin: Toulouse, France  
-`SGR`  
+:round_pushpin: Toulouse, France
 :office: [Sogeti High Tech](http://www.sogeti.com)  
 _Type of business or sector_: Consulting & IT services  
-Customer: [Airbus France](http://www.airbus.com/en/)  
+_Customer_: [Airbus France](http://www.airbus.com/en/)
+`SGR`  
 _Main activities & responsibilities_: Analysis, design & development of the application, Keep up to date project 
 documentation, Help desk, Project management for a business sub-component  
 `Java` `JEE` `JBoss` `Websphere` `Oracle` `JSP` `Servlet` `CVS`
@@ -204,10 +203,10 @@ within the airline organization as this file format is very widespread at it.
 **Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
 :date: From April 2002 to October 2002  
 :round_pushpin: Evry, France  
-`Neural Networks` `Machine Learning`  
 :office: [CNES](http://www.cnes.fr)  
 _Type of business or sector_: CNES is the French national space agency. CNES is responsible for shaping France's space 
 policy, presenting it to the government, and implementing it.  
+`Neural Networks` `Machine Learning`  
 _Main activities & responsibilities_:  
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
 _Or how to be 15 years ahead of the fashion of Deep Learning_ :sunglasses:
