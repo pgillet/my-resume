@@ -229,16 +229,16 @@ networks, non-linear regressions)
 
 :date: From 2012 to 2013  
 :round_pushpin: [IRIT](http://www.irit.fr/), Université Paul Sabatier, Toulouse, France  
-**_Master of Research in Computing & Telecommunications_**  
+:mortar_board: **_Master of Research in Computing & Telecommunications_**  
 _Information Retrieval, Databases & Multimedia_  
 `Information Retrieval` `Search Engine Indexing` `Data Mining` `Multidimensional Databases` `Mobile Databases` `Semantic Web`   
 5th year of university
 
 :date: From 2001 to 2002  
 :round_pushpin:[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
-Institute of higher education in the field of applied information sciences and technologies  
+Institute of higher education in the field of applied information sciences and technologies
+:mortar_board: **_Master of Sciences in Software Engineering_**  
 `Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
-**_Master of Sciences in Software Engineering_**  
 5th year of university
 
 ## Certifications
