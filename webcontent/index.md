@@ -53,6 +53,7 @@ _Main activities & responsibilities_:
 - Definition of a data management platform with Semantic Web technologies
 - **MIPF on behalf of Airbus Defense & Space: Management and development of a large-scale computer cluster for 
 processing satellite images**
+
 `OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
 
 **Founder of _Glue_ project**  
