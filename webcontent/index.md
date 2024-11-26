@@ -60,16 +60,16 @@ In the context of the SWIP Question Answering system that queries an RDF databas
 [Internship Memoir](docs/research-internship/Internship_Memoir.pdf)  
 See also [Publications](#publications)
 
-Occupation or position held: **Technical Manager**
-From April 2011 to September 2012
-Toulouse, France
+Occupation or position held: **Technical Manager**  
+From April 2011 to September 2012  
+Toulouse, France  
 `Electronic Flight Folder`
-Name of employer: [GFI Informatique](http://www.gfi.fr/)
-Type of business or sector: Consulting & IT services
-Customer: [Airbus France](http://www.airbus.com/en/)
-Main activities & responsibilities: Development Monitoring, Continuous Integration, Design & Architecture, Configuration Management
-`Java` `JEE` `Hudson` `Subversion` `Maven` `Spring` `Hibernate` `RMI` `Swing`
-Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains all flight documents and related data such as the operational flight plan, weather, weather maps, [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.
+Name of employer: [GFI Informatique](http://www.gfi.fr/)  
+Type of business or sector: Consulting & IT services  
+Customer: [Airbus France](http://www.airbus.com/en/)  
+Main activities & responsibilities: Development Monitoring, Continuous Integration, Design & Architecture, Configuration Management  
+`Java` `JEE` `Hudson` `Subversion` `Maven` `Spring` `Hibernate` `RMI` `Swing`  
+Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains all flight documents and related data such as the operational flight plan, weather, weather maps, [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.  
 
 Occupation or position held: **Domain Leader Back Office**  
 From October 2009 to April 2011  
