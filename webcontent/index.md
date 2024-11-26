@@ -1,30 +1,37 @@
-[Work experience](#work)
+# Hello, world! from Pascal GILLET - DevOps/Data Engineering/Software Development
+
+I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
+In my everyday work, I am involved in cloud computing and data management in general: issues related to the capture, 
+storage, retrieval, sharing, analysis and visualization of (big) data. 
+
+I define myself as a technical person and I love getting my hands in the code.
+
+This resume is primarily for myself to keep track of the really boring details of my professional life.
+
+[Work experience](#work-experience)
 [Education](#education)
 [Certifications](#certifications)
 [Publications](#publications)
-[Skills](#skills)
+[Skills](#technical-skills)
 [Personal](#personal)
 
-# Hello, world!
+## Work experience
 
-I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
-In my everyday work, I am involved in cloud computing and data management in general, including the use of open data, issues related to the capture, storage, retrieval, sharing, analysis and visualization of big data, and finally make sense of data with the semantic Web. I define myself as a technical person and I love getting my hands in the code.
-
-*   [pascalgillet@ymail.com](mailto:pascalgillet@ymail.com)
-    
-
-Pascal GILLET Software & Data Architect
-=======================================
-
-# Work experience
+Occupation or position held: **Big Data & Cloud Architect**  
+:date: From August 2023 to -  
+:round_pushpin: Toulouse, France  
+`DevOps`  
+Name of employer: [Exotrail](https://www.exotrail.com)  
+Exotrail is a space service company from Palaiseau, Ile-de-France, France, founded in 2017. The company produces electric propulsion systems used in smallsats. It also develops an orbital transfer vehicle - the SpaceVan - for smallsats.  
+Type of business or sector: new space :rocket:
+Main activities & responsibilities: DevOps engineering
 
 Occupation or position held: **Big Data & Cloud Architect**  
 :date: From May 2018 to August 2023  
 :round_pushpin: Toulouse, France  
 `Big Data` `Cloud`  
 Name of employer: [Stack Labs](https://www.stack-labs.com)  
-Type of business or sector: IT mastery  
-
+Type of business or sector: IT mastery
 
 Occupation or position held: **Solutions Architect**  
 :date: From June 2014 to May 2018  
@@ -157,7 +164,7 @@ Proposal and implementation of the **FLS library** covering the [ARINC](https://
 Occupation or position held: **Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
 :date: From April 2002 to October 2002  
 :round_pushpin: Evry, France  
-`Neural Networks` `Machine Learning` 
+`Neural Networks` `Machine Learning`  
 Name of employer: [CNES](http://www.cnes.fr)  
 Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space policy, presenting it to the government, and implementing it.  
 Main activities & responsibilities:  
