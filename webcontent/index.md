@@ -25,7 +25,7 @@ Occupation or position held: **Data Engineer**
 :date: From August 2023 to -  
 :round_pushpin: Toulouse, France  
 `DevOps`  
-Name of employer: [Exotrail](https://www.exotrail.com)  
+:office: [Exotrail](https://www.exotrail.com)  
 Exotrail is a space service company from Palaiseau, Ile-de-France, France, founded in 2017. The company produces 
 electric propulsion systems used in smallsats. It also develops an orbital transfer vehicle - the SpaceVan - for 
 smallsats.  
@@ -37,14 +37,14 @@ Occupation or position held: **Big Data & Cloud Architect**
 :date: From May 2018 to August 2023  
 :round_pushpin: Toulouse, France  
 `Big Data` `Cloud`  
-Name of employer: [Stack Labs](https://www.stack-labs.com)  
+:office: [Stack Labs](https://www.stack-labs.com)  
 Type of business or sector: IT mastery
 
 Occupation or position held: **Solutions Architect**  
 :date: From June 2014 to May 2018  
 :round_pushpin: Toulouse, France  
 `Big Data` `Machine Learning` `Semantic Web`  
-Name of employer: [Capgemini](http://www.capgemini.com)  
+:office: [Capgemini](http://www.capgemini.com)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)  
 Main activities & responsibilities:
@@ -83,8 +83,8 @@ See also [Publications](#publications)
 Occupation or position held: **Technical Manager**  
 :date: From April 2011 to September 2012  
 :round_pushpin: Toulouse, France  
-`Electronic Flight Folder`
-Name of employer: [GFI Informatique](http://www.gfi.fr/)  
+`Electronic Flight Folder`  
+:office: [GFI Informatique](http://www.gfi.fr/)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
 Main activities & responsibilities: Development Monitoring, Continuous Integration, Design & Architecture, 
@@ -98,7 +98,7 @@ Occupation or position held: **Domain Leader Back Office**
 :date: From October 2009 to April 2011  
 :round_pushpin: Casablanca, Morocco ![](img/flags/png/ma.png)  
 FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
-Name of employer: [GFI Maroc](http://www.gfimaroc.com/)  
+:office: [GFI Maroc](http://www.gfimaroc.com/)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
 Main activities & responsibilities: Development Monitoring, Management of developer teams, Synchronization with Domain 
@@ -113,7 +113,7 @@ Occupation or position held: **Software engineer**
 :date: From June 2007 to April 2009  
 :round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia  
 `Telecoms` `Billing`  
-Name of employer: [GFI Informatique](http://www.gfi.fr)  
+:office: [GFI Informatique](http://www.gfi.fr)  
 Type of business or sector: Consulting & IT services  
 Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
 Main activities & responsibilities: Development, Design & Architecture, Technical Management, Java/JEE support  
@@ -166,7 +166,7 @@ Occupation or position held: **Software Engineer**
 :date: From September 2003 to May 2007  
 :round_pushpin: Toulouse, France  
 `SGR`  
-Name of employer: [Sogeti High Tech](http://www.sogeti.com)  
+:office: [Sogeti High Tech](http://www.sogeti.com)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
 Main activities & responsibilities: Analysis, design & development of the application, Keep up to date project 
@@ -204,7 +204,7 @@ Occupation or position held: **Internship at the Ground Facilities Sub-Directora
 :date: From April 2002 to October 2002  
 :round_pushpin: Evry, France  
 `Neural Networks` `Machine Learning`  
-Name of employer: [CNES](http://www.cnes.fr)  
+:office: [CNES](http://www.cnes.fr)  
 Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space 
 policy, presenting it to the government, and implementing it.  
 Main activities & responsibilities:  
