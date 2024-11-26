@@ -29,7 +29,7 @@ Occupation or position held: **Data Engineer**
 Exotrail is a space service company from Palaiseau, Ile-de-France, France, founded in 2017. The company produces 
 electric propulsion systems used in smallsats. It also develops an orbital transfer vehicle - the SpaceVan - for 
 smallsats.  
-Type of business or sector: new space :rocket:  
+_Type of business or sector_: new space :rocket:  
 _Main activities & responsibilities_: DevOps engineering mostly, I don't really do data engineering yet...But data is 
 coming!
 
@@ -38,14 +38,14 @@ Occupation or position held: **Big Data & Cloud Architect**
 :round_pushpin: Toulouse, France  
 `Big Data` `Cloud`  
 :office: [Stack Labs](https://www.stack-labs.com)  
-Type of business or sector: IT mastery
+_Type of business or sector_: IT mastery
 
 Occupation or position held: **Solutions Architect**  
 :date: From June 2014 to May 2018  
 :round_pushpin: Toulouse, France  
 `Big Data` `Machine Learning` `Semantic Web`  
 :office: [Capgemini](http://www.capgemini.com)  
-Type of business or sector: Consulting & IT services  
+_Type of business or sector_: Consulting & IT services  
 Customer: [Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)  
 _Main activities & responsibilities_:
 - Functional architecture
@@ -58,7 +58,7 @@ processing satellite images**
 Occupation or position held: **Founder of _Glue_ project**  
 :date: From September 2013 to June 2014  
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
-Type of business or sector: Entrepreneurship, Startup  
+_Type of business or sector_: Entrepreneurship, Startup  
 _Main activities & responsibilities_: Development  
 Idea: **_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural 
 events._**  
@@ -85,7 +85,7 @@ Occupation or position held: **Technical Manager**
 :round_pushpin: Toulouse, France  
 `Electronic Flight Folder`  
 :office: [GFI Informatique](http://www.gfi.fr/)  
-Type of business or sector: Consulting & IT services  
+_Type of business or sector_: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
 _Main activities & responsibilities_: Development Monitoring, Continuous Integration, Design & Architecture, 
 Configuration Management  
@@ -99,7 +99,7 @@ Occupation or position held: **Domain Leader Back Office**
 :round_pushpin: Casablanca, Morocco ![](img/flags/png/ma.png)  
 FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
 :office: [GFI Maroc](http://www.gfimaroc.com/)  
-Type of business or sector: Consulting & IT services  
+_Type of business or sector_: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
 _Main activities & responsibilities_: Development Monitoring, Management of developer teams, Synchronization with Domain 
 Leader Front Office  
@@ -114,7 +114,7 @@ Occupation or position held: **Software engineer**
 :round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia  
 `Telecoms` `Billing`  
 :office: [GFI Informatique](http://www.gfi.fr)  
-Type of business or sector: Consulting & IT services  
+_Type of business or sector_: Consulting & IT services  
 Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
 _Main activities & responsibilities_: Development, Design & Architecture, Technical Management, Java/JEE support  
 `Java` `JEE` `JSP` `Servlet` `Tomcat` `HTML` `CSS` `JavaScript` `Maven` `Ant` `Struts` `CVS`  
@@ -167,7 +167,7 @@ Occupation or position held: **Software Engineer**
 :round_pushpin: Toulouse, France  
 `SGR`  
 :office: [Sogeti High Tech](http://www.sogeti.com)  
-Type of business or sector: Consulting & IT services  
+_Type of business or sector_: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
 _Main activities & responsibilities_: Analysis, design & development of the application, Keep up to date project 
 documentation, Help desk, Project management for a business sub-component  
@@ -205,7 +205,7 @@ Occupation or position held: **Internship at the Ground Facilities Sub-Directora
 :round_pushpin: Evry, France  
 `Neural Networks` `Machine Learning`  
 :office: [CNES](http://www.cnes.fr)  
-Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space 
+_Type of business or sector_: CNES is the French national space agency. CNES is responsible for shaping France's space 
 policy, presenting it to the government, and implementing it.  
 _Main activities & responsibilities_:  
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
