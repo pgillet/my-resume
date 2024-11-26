@@ -21,7 +21,7 @@ This resume is primarily for myself to keep track of the really boring details o
 
 ## Work experience
 
-Occupation or position held: **Data Engineer**  
+**Data Engineer**  
 :date: From August 2023 to -  
 :round_pushpin: Toulouse, France  
 `DevOps`  
@@ -33,14 +33,14 @@ _Type of business or sector_: new space :rocket:
 _Main activities & responsibilities_: DevOps engineering mostly, I don't really do data engineering yet...But data is 
 coming!
 
-Occupation or position held: **Big Data & Cloud Architect**  
+**Big Data & Cloud Architect**  
 :date: From May 2018 to August 2023  
 :round_pushpin: Toulouse, France  
 `Big Data` `Cloud`  
 :office: [Stack Labs](https://www.stack-labs.com)  
 _Type of business or sector_: IT mastery
 
-Occupation or position held: **Solutions Architect**  
+**Solutions Architect**  
 :date: From June 2014 to May 2018  
 :round_pushpin: Toulouse, France  
 `Big Data` `Machine Learning` `Semantic Web`  
@@ -55,7 +55,7 @@ _Main activities & responsibilities_:
 processing satellite images**  
 `OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
 
-Occupation or position held: **Founder of _Glue_ project**  
+**Founder of _Glue_ project**  
 :date: From September 2013 to June 2014  
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
 _Type of business or sector_: Entrepreneurship, Startup  
@@ -68,7 +68,7 @@ directories (FNAC, France Billet, Digitick).
 The idea was proposed to several incubators for startups in the area of Toulouse, without success.  
 `Java` `JEE` `JSF` `Apache Tomee` `REST` `MySQL` `Apache Solr` `Apache OpenNLP` `Quartz Scheduler` `Maven` `GitHub` `Android`
 
-Occupation or position held: **Research internship**  
+**Research internship**  
 :date: From March to August 2013  
 :round_pushpin: [IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
 `Semantic Web` `Ontology Matching` `Query Patterns`  
@@ -80,7 +80,7 @@ language
 [Internship Memoir](docs/research-internship/Internship_Memoir.pdf)  
 See also [Publications](#publications)
 
-Occupation or position held: **Technical Manager**  
+**Technical Manager**  
 :date: From April 2011 to September 2012  
 :round_pushpin: Toulouse, France  
 `Electronic Flight Folder`  
@@ -94,7 +94,7 @@ Functional aspects: The embedded application EFF (Electronic Flight Folder) is d
 all flight documents and related data such as the operational flight plan, weather, weather maps, 
 [NOTAMs](http://en.wikipedia.org/wiki/NOTAM), etc. in a standardized data structure.  
 
-Occupation or position held: **Domain Leader Back Office**  
+**Domain Leader Back Office**  
 :date: From October 2009 to April 2011  
 :round_pushpin: Casablanca, Morocco ![](img/flags/png/ma.png)  
 FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic  
@@ -109,7 +109,7 @@ Functional aspects : Software suite for the publication of operational aircraft 
 :date: From April 2009 to September 2009  
 _Australian interlude_ ![](img/flags/png/au.png)  
 
-Occupation or position held: **Software engineer**  
+**Software engineer**  
 :date: From June 2007 to April 2009  
 :round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia  
 `Telecoms` `Billing`  
@@ -162,7 +162,7 @@ able to work together (inter-operate) and promoting standardization during the d
 *   Implemented a library achieving logging separation, i.e. distinct configuration of multiple web applications while 
 sharing the logging binaries in the Servlet container (or any JEE environment)
 
-Occupation or position held: **Software Engineer**  
+**Software Engineer**  
 :date: From September 2003 to May 2007  
 :round_pushpin: Toulouse, France  
 `SGR`  
@@ -200,7 +200,7 @@ specification. The library aims to read, write and validate Field Loadable Softw
 authenticity. It has been primarily used within the architecture quoted above but can be reused for other applications 
 within the airline organization as this file format is very widespread at it.
 
-Occupation or position held: **Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
+**Internship at the Ground Facilities Sub-Directorate, Launchers Directorate**  
 :date: From April 2002 to October 2002  
 :round_pushpin: Evry, France  
 `Neural Networks` `Machine Learning`  
