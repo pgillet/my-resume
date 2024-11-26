@@ -234,4 +234,4 @@ Institute of higher education in the field of applied information sciences and t
 
 # Personal activities
 
-:walking: :running: :mount_fuji: :bicycling: :snowboarder: :camera:
+:walking: :running: :mount_fuji: :bicyclist: :snowboarder: :camera:
