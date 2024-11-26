@@ -85,34 +85,35 @@ Functional aspects : Software suite for the publication of operational aircraft 
 From April 2009 to September 2009  
 _Australian interlude_ ![](img/flags/png/au.png)  
 
-Occupation or position held: **Software engineer**
-From June 2007 to April 2009
-Toulouse, France with missions in Cameroon and New Caledonia
-`Telecoms` `Billing` 
-Name of employer: [GFI Informatique](http://www.gfi.fr)
+Occupation or position held: **Software engineer**  
+From June 2007 to April 2009  
+Toulouse, France with missions in Cameroon and New Caledonia  
+`Telecoms` `Billing`  
+Name of employer: [GFI Informatique](http://www.gfi.fr)  
 Type of business or sector: Consulting & IT services  
-Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)
-Main activities & responsibilities: Development, Design & Architecture, Technical Management, Java/JEE support
+Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
+Main activities & responsibilities: Development, Design & Architecture, Technical Management, Java/JEE support  
 `Java` `JEE` `JSP` `Servlet` `Tomcat` `HTML` `CSS` `JavaScript` `Maven` `Ant` `Struts` `CVS`  
 Functional aspects:  
-Telecommunications billing and customer care systems: Alcatel combines billing solutions, like [BSCS](http://h71028.www7.hp.com/enterprise/cache/4777-0-0-0-121.html) of [LHS](http://www.lhsgroup.com/) or [Convergys](http://www.convergys.com/), with its home-made applications, project management and integration skills to provide end-to-end billing solutions to all telecom carriers (fixed and mobile), from customer management to network interaction.
+Telecommunications billing and customer care systems: Alcatel combines billing solutions, like [BSCS](http://h71028.www7.hp.com/enterprise/cache/4777-0-0-0-121.html) of [LHS](http://www.lhsgroup.com/) or [Convergys](http://www.convergys.com/), with its home-made applications, project management and integration skills to provide end-to-end billing solutions to all telecom carriers (fixed and mobile), from customer management to network interaction.  
 
-Projects[](#collapseOne)
+Projects:
 
-*   **Post and Telecommunications Office of New Caledonia**: [OPT](http://www.opt.nc/) is the government agency in charge of the postal service and telecommunications in New Caledonia.
-    
-    *   **Specific Modules**: Back-office web application providing billing and payment operations on top of BSCS, keeping a record of the organization’s sales and purchase transactions, and producing invoices, receipts and reports.
-    *   **Self care**: Front office web application allowing post-paid subscribers to manage their billing and account information, such as viewing their account balances and payment histories.
-    
-    June/July 2007: Mission in Nouméa, New Caledonia, for integration and development on the fly. ![](img/flags/png/nc.png)
-*   **Orange Cameroon**: Stock (Inventory) management web application accessible from the Orange stores in all Cameroon, allowing creation of purchase order requests, product life cycle management and reporting; operating with the Alcatel's cashier application for product selling.  
+- **Post and Telecommunications Office of New Caledonia**: [OPT](http://www.opt.nc/) is the government agency in charge of the postal service and telecommunications in New Caledonia.
+  - **Specific Modules**: Back-office web application providing billing and payment operations on top of BSCS, keeping a record of the organization’s sales and purchase transactions, and producing invoices, receipts and reports.
+  - **Self care**: Front office web application allowing post-paid subscribers to manage their billing and account information, such as viewing their account balances and payment histories.
+  
+  June/July 2007: Mission in Nouméa, New Caledonia, for integration and development on the fly. ![](img/flags/png/nc.png)
+
+- **Orange Cameroon**: Stock (Inventory) management web application accessible from the Orange stores in all Cameroon, allowing creation of purchase order requests, product life cycle management and reporting; operating with the Alcatel's cashier application for product selling.  
     September 2008: Mission in Douala, Cameroon, for integration and test with the customer. ![](img/flags/png/cm.png)
-*   **Angola Telecom**: Adaptation of the Alcatel's billing suite solution previously put forward to Orange Cameroon and Orange Ivory Coast.  
-    *   Responsible for organizing software resources (Oracle, BSCS on development & integration environments)
-    *   Responsible for making a prototype demo by simply adapting the products to english and portuguese languages (internationalization) and changing the visual appearance in compliance with the customer's visual identity
-    *   Promoted use of CVS branching and merging to maintain multiple versions of a product for providing support and new features while a generic abstract version is kept into the main trunk
 
-Other activities[](#collapseTwo)
+- **Angola Telecom**: Adaptation of the Alcatel's billing suite solution previously put forward to Orange Cameroon and Orange Ivory Coast.  
+  - Responsible for organizing software resources (Oracle, BSCS on development & integration environments)
+  - Responsible for making a prototype demo by simply adapting the products to english and portuguese languages (internationalization) and changing the visual appearance in compliance with the customer's visual identity
+  - Promoted use of CVS branching and merging to maintain multiple versions of a product for providing support and new features while a generic abstract version is kept into the main trunk
+
+Other activities:
 
 **Member of the techno cluster "JEE Best Practices".**  
 Recognizing potential reuse in the organization or in the existent Alcatel’s applications, making these diverse systems able to work together (inter-operate) and promoting standardization during the design of software components:
