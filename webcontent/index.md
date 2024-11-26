@@ -1,4 +1,6 @@
 # Pascal GILLET - DevOps/Data Engineering/Software Development
+
+![Aiguille Dibona - Massif des Écrins](img/ecrins-pointe-dibona.JPG)
  
 Hello, world! I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL (and yes, it was a 
 very good catchphrase in 2014).
