@@ -30,7 +30,7 @@ Exotrail is a space service company from Palaiseau, Ile-de-France, France, found
 electric propulsion systems used in smallsats. It also develops an orbital transfer vehicle - the SpaceVan - for 
 smallsats.  
 Type of business or sector: new space :rocket:  
-Main activities & responsibilities: DevOps engineering mostly, I don't really do data engineering yet...But data is 
+_Main activities & responsibilities_: DevOps engineering mostly, I don't really do data engineering yet...But data is 
 coming!
 
 Occupation or position held: **Big Data & Cloud Architect**  
@@ -47,7 +47,7 @@ Occupation or position held: **Solutions Architect**
 :office: [Capgemini](http://www.capgemini.com)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus Commercial Aircraft , Airbus Defence and Space](http://www.airbus.com/en/)  
-Main activities & responsibilities:
+_Main activities & responsibilities_:
 - Functional architecture
 - R&D in the fields of Big Data, Linked Data, Semantic Web, NoSQL
 - Definition of a data management platform with Semantic Web technologies
@@ -59,7 +59,7 @@ Occupation or position held: **Founder of _Glue_ project**
 :date: From September 2013 to June 2014  
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
 Type of business or sector: Entrepreneurship, Startup  
-Main activities & responsibilities: Development  
+_Main activities & responsibilities_: Development  
 Idea: **_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural 
 events._**  
 The goal is to build a geolocated search engine that promotes discovery of cultural events around, and provides a 
@@ -87,7 +87,7 @@ Occupation or position held: **Technical Manager**
 :office: [GFI Informatique](http://www.gfi.fr/)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
-Main activities & responsibilities: Development Monitoring, Continuous Integration, Design & Architecture, 
+_Main activities & responsibilities_: Development Monitoring, Continuous Integration, Design & Architecture, 
 Configuration Management  
 `Java` `JEE` `Hudson` `Subversion` `Maven` `Spring` `Hibernate` `RMI` `Swing`  
 Functional aspects: The embedded application EFF (Electronic Flight Folder) is dedicated to airline pilots and contains 
@@ -101,7 +101,7 @@ FLIGHT OPS FOSP Publisher Preview Ninja LPC Classic
 :office: [GFI Maroc](http://www.gfimaroc.com/)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
-Main activities & responsibilities: Development Monitoring, Management of developer teams, Synchronization with Domain 
+_Main activities & responsibilities_: Development Monitoring, Management of developer teams, Synchronization with Domain 
 Leader Front Office  
 `Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
 Functional aspects : Software suite for the publication of operational aircraft manuals from XML to HTML.
@@ -116,7 +116,7 @@ Occupation or position held: **Software engineer**
 :office: [GFI Informatique](http://www.gfi.fr)  
 Type of business or sector: Consulting & IT services  
 Customer: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
-Main activities & responsibilities: Development, Design & Architecture, Technical Management, Java/JEE support  
+_Main activities & responsibilities_: Development, Design & Architecture, Technical Management, Java/JEE support  
 `Java` `JEE` `JSP` `Servlet` `Tomcat` `HTML` `CSS` `JavaScript` `Maven` `Ant` `Struts` `CVS`  
 Functional aspects:  
 Telecommunications billing and customer care systems: Alcatel combines billing solutions, like 
@@ -169,7 +169,7 @@ Occupation or position held: **Software Engineer**
 :office: [Sogeti High Tech](http://www.sogeti.com)  
 Type of business or sector: Consulting & IT services  
 Customer: [Airbus France](http://www.airbus.com/en/)  
-Main activities & responsibilities: Analysis, design & development of the application, Keep up to date project 
+_Main activities & responsibilities_: Analysis, design & development of the application, Keep up to date project 
 documentation, Help desk, Project management for a business sub-component  
 `Java` `JEE` `JBoss` `Websphere` `Oracle` `JSP` `Servlet` `CVS`
 Functional aspects:  
@@ -207,7 +207,7 @@ Occupation or position held: **Internship at the Ground Facilities Sub-Directora
 :office: [CNES](http://www.cnes.fr)  
 Type of business or sector: CNES is the French national space agency. CNES is responsible for shaping France's space 
 policy, presenting it to the government, and implementing it.  
-Main activities & responsibilities:  
+_Main activities & responsibilities_:  
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
 _Or how to be 15 years ahead of the fashion of Deep Learning_ :sunglasses:
 
