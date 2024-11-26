@@ -1,6 +1,7 @@
 # Pascal GILLET - DevOps/Data Engineering/Software Development
  
-Hello, world! I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL.  
+Hello, world! I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL (and yes, it was a very 
+good catchphrase in 2014).
 
 In my everyday work, I am involved in cloud computing and data management in general: issues related to the capture, 
 storage, retrieval, sharing, analysis and visualization of (big) data. 
