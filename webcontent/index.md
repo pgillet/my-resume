@@ -3,7 +3,7 @@
 ![Aiguille Dibona - Massif des Écrins](img/ecrins-pointe-dibona.JPG)
  
 Hello, world! I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL (and yes, it was a 
-very good catchphrase in 2014).
+very good catchphrase back in 2014).
 
 In my everyday work, I am involved in cloud computing and data management in general: issues related to the capture, 
 storage, retrieval, sharing, analysis and visualization of (big) data. 
@@ -58,7 +58,7 @@ processing satellite images**
 
 **Founder of _Glue_ project**  
 :date: From September 2013 to June 2014
-_Type of business or sector_: Entrepreneurship, Startup
+_Type of business or sector_: Entrepreneurship, Startup  
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
 _Main activities & responsibilities_: Development  
 :bulb: Idea: **_Development of a platform of [data curation](http://en.wikipedia.org/wiki/Content_curation) for cultural 
@@ -86,7 +86,7 @@ See also [Publications](#publications)
 :round_pushpin: Toulouse, France   
 :office: [GFI Informatique](http://www.gfi.fr/)  
 _Type of business or sector_: Consulting & IT services  
-_Customer_: [Airbus France](http://www.airbus.com/en/)
+_Customer_: [Airbus France](http://www.airbus.com/en/)  
 `Electronic Flight Folder`  
 _Main activities & responsibilities_: Development Monitoring, Continuous Integration, Design & Architecture, 
 Configuration Management  
@@ -111,7 +111,7 @@ _Australian interlude_ ![](img/flags/png/au.png)
 
 **Software engineer**  
 :date: From June 2007 to April 2009  
-:round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia
+:round_pushpin: Toulouse, France with missions in Cameroon and New Caledonia  
 :office: [GFI Informatique](http://www.gfi.fr)  
 _Type of business or sector_: Consulting & IT services  
 _Customer_: [Alcatel-Lucent OSS/BSS](http://www.alcatel-lucent.com/)  
@@ -164,14 +164,14 @@ sharing the logging binaries in the Servlet container (or any JEE environment)
 
 **Software Engineer**  
 :date: From September 2003 to May 2007  
-:round_pushpin: Toulouse, France
+:round_pushpin: Toulouse, France  
 :office: [Sogeti High Tech](http://www.sogeti.com)  
 _Type of business or sector_: Consulting & IT services  
-_Customer_: [Airbus France](http://www.airbus.com/en/)
+_Customer_: [Airbus France](http://www.airbus.com/en/)  
 `SGR`  
 _Main activities & responsibilities_: Analysis, design & development of the application, Keep up to date project 
 documentation, Help desk, Project management for a business sub-component  
-`Java` `JEE` `JBoss` `Websphere` `Oracle` `JSP` `Servlet` `CVS`
+`Java` `JEE` `JBoss` `Websphere` `Oracle` `JSP` `Servlet` `CVS`  
 :mag: _Functional aspects_:  
 **Software Ground Repository (SGR)**: web server utility accessible from the Airbus and EADS networks (France, Germany, 
 Spain) allowing to manage and distribute operation flight software programs and other forms of software used within the 
@@ -260,6 +260,7 @@ Institute of higher education in the field of applied information sciences and t
 **Cloud**: Google Cloud Platform, OVHcloud, OpenStack  
 **Infrastructure/Configuration as Code**: Terraform, Ansible  
 **Continuous Integration & Deployment**: Gitlab CI  
+**Identity & Access Management**: Keycloak
 **Big Data**: Hadoop, Spark, Kafka  
 **Search**: Solr, Elasticsearch  
 **Containerization**: Docker  
