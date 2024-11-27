@@ -102,7 +102,7 @@ all flight documents and related data such as the operational flight plan, weath
 _Type of business or sector_: Consulting & IT services  
 _Customer_: [Airbus France](http://www.airbus.com/en/)  
 _Main activities & responsibilities_: Development Monitoring, Management of developer teams, Synchronization with Domain 
-Leader Front Office
+Leader Front Office  
 :mag: _Functional aspects_ : Software suite for the publication of operational aircraft manuals from XML to HTML.
 `Java` `JEE` `Jira` `Subversion` `Maven` `Spring` `Hibernate` `XML` `XSLT` `RMI` `Swing`  
 
@@ -260,7 +260,7 @@ Institute of higher education in the field of applied information sciences and t
 **Cloud**: Google Cloud Platform, OVHcloud, OpenStack  
 **Infrastructure/Configuration as Code**: Terraform, Ansible  
 **Continuous Integration & Deployment**: Gitlab CI  
-**Identity & Access Management**: Keycloak
+**Identity & Access Management**: Keycloak  
 **Big Data**: Hadoop, Spark, Kafka  
 **Search**: Solr, Elasticsearch  
 **Containerization**: Docker  
