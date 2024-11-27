@@ -23,12 +23,11 @@ This resume is primarily for myself to keep track of the really boring details o
 
 **Data Engineer**  
 :date: From August 2023 to -  
-:round_pushpin: Toulouse, France
+:round_pushpin: Toulouse, France  
 :office: [Exotrail](https://www.exotrail.com)  
-Exotrail is a space service company from Palaiseau, Ile-de-France, France, founded in 2017. The company produces 
-electric propulsion systems used in smallsats. It also develops an orbital transfer vehicle - the SpaceVan - for 
-smallsats.  
-_Type of business or sector_: new space :rocket:  
+_Type of business or sector_: Exotrail is a space service company :rocket: from Palaiseau, Ile-de-France, France, 
+founded in 2017. The company produces electric propulsion systems used in smallsats. It also develops an orbital 
+transfer vehicle - the SpaceVan - for smallsats.  
 _Main activities & responsibilities_: DevOps engineering mostly, I don't really do data engineering yet...But data is 
 coming!  
 `DevOps`
@@ -37,8 +36,9 @@ coming!
 :date: From May 2018 to August 2023  
 :round_pushpin: Toulouse, France   
 :office: [Stack Labs](https://www.stack-labs.com)  
-_Type of business or sector_: IT mastery  
-`Big Data` `Cloud`
+_Type of business or sector_: Stack Labs is a services company with technical expertise that partners with major cloud 
+providers and supports its customers in their transition to the public cloud.   
+`Big Data` `Google Cloud Platform`
 
 **Solutions Architect**  
 :date: From June 2014 to May 2018  
@@ -57,7 +57,7 @@ processing satellite images**
 `OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
 
 **Founder of _Glue_ project**  
-:date: From September 2013 to June 2014
+:date: From September 2013 to June 2014  
 _Type of business or sector_: Entrepreneurship, Startup  
 `Events` `Semantic Web` `Data curation` `Information Retrieval`  
 _Main activities & responsibilities_: Development  
