@@ -72,7 +72,8 @@ The idea was proposed to several incubators for startups in the area of Toulouse
 
 **Research internship**  
 :date: From March to August 2013  
-:round_pushpin: [<abbr title="Institut de Recherche en Informatique de Toulouse">IRIT</abbr>](http://www.irit.fr/) - UMR 5505, Toulouse, France  
+:round_pushpin: <abbr title="Institut de Recherche en Informatique de Toulouse">[IRIT](http://www.irit.fr/)</abbr> - UMR 5505, Toulouse,
+France  
 `Semantic Web` `Ontology Matching` `Query Patterns`  
 :mag: _Subject_: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in 
 Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
