@@ -77,8 +77,8 @@ France
 `Semantic Web` `Ontology Matching` `Query Patterns`  
 :mag: _Subject_: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in 
 Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
-In the context of the SWIP Question Answering system that queries an RDF database from questions formulated in natural 
-language
+In the context of the <abbr title="Semantic Web Interface using Patterns">SWIP</abbr> Question Answering system that 
+queries an RDF database from questions formulated in natural language
 `Java` `RDF` `SPARQL` `OWL`  
 [Internship Memoir](docs/research-internship/Internship_Memoir.pdf)  
 See also [Publications](#publications)
@@ -129,8 +129,8 @@ interaction.
 
 Projects:
 
-- **Post and Telecommunications Office of New Caledonia**: [OPT](http://www.opt.nc/) is the government agency in charge 
-of the postal service and telecommunications in New Caledonia.
+- **Post and Telecommunications Office of New Caledonia**: <abbr title="Office des Postes et télécommunications de Nouvelle-Calédonie">[OPT](http://www.opt.nc/)</abbr> 
+is the government agency in charge of the postal service and telecommunications in New Caledonia.
   - **Specific Modules**: Back-office web application providing billing and payment operations on top of BSCS, keeping 
   a record of the organization’s sales and purchase transactions, and producing invoices, receipts and reports.
   - **Self care**: Front office web application allowing post-paid subscribers to manage their billing and account 
@@ -237,7 +237,8 @@ _Information Retrieval, Databases & Multimedia_
 5th year of university
 
 :date: From 2001 to 2002  
-:round_pushpin:[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html), Henri Poincaré University, Nancy I, France  
+:round_pushpin: <abbr title="Institut Supérieur d'Informatique et d'Automatique de Lorraine">[ISIAL](http://www.depinfo.uhp-nancy.fr/dess-isial.html)</abbr>, 
+Henri Poincaré University, Nancy I, France  
 Institute of higher education in the field of applied information sciences and technologies  
 :mortar_board: **_Master of Sciences in Software Engineering_**  
 `Databases` `Advanced Programming` `Project Processes & Methodologies` `Artificial Intelligence`  
