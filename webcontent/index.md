@@ -2,8 +2,9 @@
 
 ![Aiguille Dibona - Massif des Écrins](img/ecrins-pointe-dibona.JPG)
  
-Hello, world! I am a software engineer specialized in Big Data with a growing interest in AI/ML/DL (and yes, it was a 
-very good catchphrase back in 2014).
+Hello, world! I am a software engineer specialized in Big Data with a growing interest in 
+<abbr title="Artificial Intelligence / Machine Learning / Deep Learning">AI/ML/DL</abbr> (and yes, it was a very good 
+catchphrase back in 2014).
 
 In my everyday work, I am involved in cloud computing and data management in general: issues related to the capture, 
 storage, retrieval, sharing, analysis and visualization of (big) data. 
@@ -51,7 +52,7 @@ _Main activities & responsibilities_:
 - Functional architecture
 - R&D in the fields of Big Data, Linked Data, Semantic Web, NoSQL
 - Definition of a data management platform with Semantic Web technologies
-- **MIPF on behalf of Airbus Defense & Space: Management and development of a large-scale computer cluster for 
+- **<abbr title="Massive Image Processing Facility">MIPF</abbr> on behalf of Airbus Defense & Space: Management and development of a large-scale computer cluster for 
 processing satellite images**
 
 `OpenStack` `Mesos` `Spark` `Docker` `Beats` `Kafka` `Elasticsearch Logstash Kibana` `Google Cloud Platform`
@@ -71,7 +72,7 @@ The idea was proposed to several incubators for startups in the area of Toulouse
 
 **Research internship**  
 :date: From March to August 2013  
-:round_pushpin: [IRIT](http://www.irit.fr/) - UMR 5505, Toulouse, France  
+:round_pushpin: [<abbr title="Institut de Recherche en Informatique de Toulouse">IRIT</abbr>](http://www.irit.fr/) - UMR 5505, Toulouse, France  
 `Semantic Web` `Ontology Matching` `Query Patterns`  
 :mag: _Subject_: **_Generating Query Patterns from Ontology Matching: Application in a Semantic Web Querying Interface based in 
 Patterns_** [![](img/pdficon_small.png)](docs/research-internship/SujetM2R_2013_MELODI_QueryPattern.pdf)  
@@ -204,8 +205,8 @@ within the airline organization as this file format is very widespread at it.
 :date: From April 2002 to October 2002  
 :round_pushpin: Evry, France  
 :office: [CNES](http://www.cnes.fr)  
-_Type of business or sector_: CNES is the French national space agency. CNES is responsible for shaping France's space 
-policy, presenting it to the government, and implementing it.  
+_Type of business or sector_: <abbr title="Centre National d'Études Spatiales">CNES</abbr> is the French national space 
+agency. CNES is responsible for shaping France's space policy, presenting it to the government, and implementing it.  
 `Neural Networks` `Machine Learning`  
 _Main activities & responsibilities_:  
 Feasibility study of an information system for help to diagnosis in real time based on neural networks techniques.  
